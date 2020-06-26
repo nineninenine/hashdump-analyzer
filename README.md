@@ -1,4 +1,4 @@
-# hashdump-analysis-worksheet
+# hashdump-analyzer
 An excel document to slice and dice password data from dumped/cracked ntds.dit that i use on my projects. 
 See Hashdump_Analysis_tool_README.docx for instructions.
 
