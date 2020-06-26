@@ -5,5 +5,5 @@ See Hashdump_Analysis_tool_README.docx for instructions.
 No macros, everything implemented in excel formulas.
 
 
-todo:
+# todo:
 transfer stuff from Hashdump_Analysis_tool_README.docx to THIS readme and make look pretty
